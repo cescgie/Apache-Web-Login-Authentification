@@ -1,6 +1,4 @@
-# Apache Web Login Authentification On OS X Yosemite
-
-Adding password protection to a web site using Apache web server authentication.
+# Adding password protection to a web site using Apache web server authentication.
 --------------------------------------------------------------------------------
 
 <p> I'll show you how to do authentication approaches using nothing more than the Apache Web Server's native capabilities. This tutorial requiring a bit of additional server configuration and a MySQL database, although you'll gain some additional flexibility along the way.</p>
